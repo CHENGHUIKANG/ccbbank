@@ -1,7 +1,7 @@
 ### Java template
 *.class
 target/*
-
+pom.xml
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
